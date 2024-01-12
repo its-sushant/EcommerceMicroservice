@@ -1,0 +1,5 @@
+com/sushant/inventoryservice/model/Inventory.class
+com/sushant/inventoryservice/InventoryServiceApplication.class
+com/sushant/inventoryservice/repository/InventoryRepository.class
+com/sushant/inventoryservice/service/InventoryService.class
+com/sushant/inventoryservice/controller/InventoryController.class

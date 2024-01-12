@@ -1,0 +1,7 @@
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/ProductServiceApplication.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/repository/ProductRepository.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/model/Product.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/controller/ProductController.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/dto/ProductRequest.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/dto/ProductResponse.java
+/home/sushant/Home/EcommerceMicroservice/product-service/src/main/java/com/sushant/productservice/service/ProductService.java

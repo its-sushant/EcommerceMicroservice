@@ -1,0 +1,5 @@
+/home/sushant/Home/EcommerceMicroservice/inventory-service/src/main/java/com/sushant/inventoryservice/repository/InventoryRepository.java
+/home/sushant/Home/EcommerceMicroservice/inventory-service/src/main/java/com/sushant/inventoryservice/model/Inventory.java
+/home/sushant/Home/EcommerceMicroservice/inventory-service/src/main/java/com/sushant/inventoryservice/service/InventoryService.java
+/home/sushant/Home/EcommerceMicroservice/inventory-service/src/main/java/com/sushant/inventoryservice/controller/InventoryController.java
+/home/sushant/Home/EcommerceMicroservice/inventory-service/src/main/java/com/sushant/inventoryservice/InventoryServiceApplication.java

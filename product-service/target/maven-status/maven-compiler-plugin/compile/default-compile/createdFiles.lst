@@ -1,0 +1,10 @@
+com/sushant/productservice/service/ProductService.class
+com/sushant/productservice/controller/ProductController.class
+com/sushant/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/sushant/productservice/ProductServiceApplication.class
+com/sushant/productservice/dto/ProductRequest.class
+com/sushant/productservice/dto/ProductResponse.class
+com/sushant/productservice/model/Product$ProductBuilder.class
+com/sushant/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/sushant/productservice/repository/ProductRepository.class
+com/sushant/productservice/model/Product.class
